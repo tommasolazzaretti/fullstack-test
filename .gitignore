@@ -78,3 +78,6 @@ $RECYCLE.BIN/
 
 # Custom dir
 dbdata
+
+#IDE
+.idea
